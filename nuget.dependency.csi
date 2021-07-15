@@ -1,0 +1,6 @@
+#r "nuget:CalcProject, 1.679.1"
+#l trace
+
+using CalcProject;
+
+Console.WriteLine("Sum is: " + Calculator.plus(5.1, 1.2));
