@@ -1,4 +1,4 @@
-#r "nuget:CalcProject, 1.679.1"
+#r "nuget:CalcProject, 1.693.0"
 #l trace
 
 using CalcProject;
